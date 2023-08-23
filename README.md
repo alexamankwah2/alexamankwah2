@@ -5,8 +5,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/alex-amankwah ![image](https://github.com/alexamankwah2/alexamankwah2/assets/128336742/6f1a5c22-3369-49d2-8055-f5c90de89f61)
-">
+  <a href="www.linkedin.com/in/alex-amankwah">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
