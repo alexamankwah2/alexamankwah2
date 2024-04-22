@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Alex Amankwah from New York, NY<br><br>- 🔭 I’m working as a Frontend Developer<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I like to watch sports highlights and code</p>
+<p align="left">I'm Alex Amankwah from New York, NY<br><br>- 🔭 I’m working as a Full Stack Developer<br>- 📚 I'm currently specializing in Cloud Devops with AWS<br>- ⚡ In my free time I like to watch sports highlights and code</p>
 
 ###
 
