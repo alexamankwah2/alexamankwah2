@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Alex Amankwah from New York, NY<br><br>- 🔭 I’m working as a Full Stack Developer<br>- 📚 I'm currently specializing in Cloud Devops with AWS<br>- ⚡ In my free time I like to watch sports highlights and code</p>
+<p align="left">I'm Alex Amankwah from New York, NY<br><br>-  I’m a self taught Full Stack Developer<br>- 📚 I'm currently working to become a Cloud DevOps engineer with a focus in the AWS cloud platform<br>- ⚡ I'm a big football fan (soccer) and music enthusiast</p>
 
 ###
 
